@@ -1,2 +1,3 @@
 # HangMan
-Başlangıç için python :)
+# About my first project on GitHub
+Python için başlangıç :)
